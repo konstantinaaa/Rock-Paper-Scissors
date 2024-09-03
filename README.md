@@ -1,4 +1,3 @@
 # Rock-Paper-Scissors
 
-
-This is my first JavaScript project.
+I improved the initial project by adding GUI components. More specifically, I added buttons for the player's choices and applied some styling with CSS.
